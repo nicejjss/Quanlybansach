@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1658302035 source:g:\download\c++doc\btlquanlycuahangbansach\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<fstream>
+
